@@ -4,9 +4,13 @@ Welcome to my teaching materials repository! This is a dedicated space where I s
 
 ## Contents
 
-- **Slides**: Lecture slides covering different subjects and topics taught in my courses.
-- **Lecture Notes**: Supplementary notes and handouts provided to students.
-- **Supplementary Resources**: Additional materials such as case studies, examples, and references.
+-   **Slides**: Lecture slides covering different subjects and topics taught in my courses.
+-   **Lecture Notes**: Supplementary notes and handouts provided to students.
+-   **Supplementary Resources**: Additional materials such as case studies, examples, and references.
+
+## Lists
+
+-   [R basics and RMarkdown](https://wanglabcsu.github.io/lecture-note/r-basics-and-rmarkdown/)
 
 ## How to Use
 
